@@ -1,7 +1,7 @@
 ## Hi, i'm Pedro Thor.
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: pedro.thor@hotmail.com
+- 📫 How to contact me: pedro.thor@hotmail.com
 
 <div align="center">
   <a href="https://github.com/pedrothor">
