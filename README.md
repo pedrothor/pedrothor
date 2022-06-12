@@ -17,7 +17,7 @@
   
   ###
   
-   <a href = "[mailto:contatopedro.thor@hotmail.com](https://www.linkedin.com/in/pedro-thor-50ba91200/)"><img src="[https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
+   <a href = "https://www.linkedin.com/in/pedro-thor-50ba91200/"><img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ###
  
