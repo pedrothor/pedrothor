@@ -12,7 +12,7 @@
 Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="120" src="<i class="devicon-mysql-plain-wordmark"></i>">
+  <img align="center" alt="Rafa-Python" height="40" width="120" src="devicon-mysql-plain-wordmark">
   <img align="center" alt="Rafa-Python" height="40" width="120" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Rafa-Python" height="40" width="120" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  
