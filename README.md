@@ -1,7 +1,7 @@
  Hi, i'm Pedro Thor.
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning Python
-- 📫 How to contact me: pedro.thor@hotmail.com
+- I'm an air traffic controller and backend software developer
 
 <div align="center">
   <a href="https://github.com/pedrothor">
@@ -18,7 +18,6 @@ Languages and Tools:
  
 </div>
   
-  ##
 How to contact me:
 <div> 
   <a href = "mailto:contatopedro.thor@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
