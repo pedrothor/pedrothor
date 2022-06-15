@@ -1,7 +1,7 @@
  Hi, i'm Pedro Thor.
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning Python
-- I'm an air traffic controller and backend software developer
+- ✈️ I'm an air traffic controller and backend software developer
 
 <div align="center">
   <a href="https://github.com/pedrothor">
