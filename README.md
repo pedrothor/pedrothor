@@ -1,6 +1,6 @@
  Hi, i'm Pedro Thor.
-- 🔭 I’m currently working on backend
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working Fullstack
+- 🌱 I’m currently learning Python (Django), Javascript, HTML e CSS
 - ✈️ I'm an air traffic controller and backend software developer
 
 <div align="center">
