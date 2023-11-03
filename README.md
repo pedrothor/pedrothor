@@ -1,6 +1,6 @@
  Hi, i'm Pedro Thor.
 - 🔭 I’m currently working Fullstack
-- 🌱 I’m currently learning Python (Django), Javascript, HTML e CSS
+- 🌱 Skills: Python (Django), JavaScript (React), HTML, CSS, Git, Bootstrap, MySQL, SQLite3, PostgreSQL
 - ✈️ I'm an air traffic controller and backend software developer
 
 <div align="center">
