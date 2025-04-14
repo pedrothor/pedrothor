@@ -1,6 +1,6 @@
  Hi, i'm Pedro Thor.
 - 🔭 I’m currently working Fullstack
-- 🌱 Skills: Python (Django, Django Rest Framework), JavaScript (React), HTML, CSS, Git, Bootstrap, MySQL, SQLite3, PostgreSQL
+- 🌱 Skills: Python (FastAPI, Django, Django Rest Framework, Playwright), JavaScript (React Vite), HTML, CSS, Git, Bootstrap, MySQL, SQLite3, PostgreSQL
 
 <div align="center">
   <a href="https://github.com/pedrothor">
@@ -12,6 +12,8 @@ Languages and Tools:
 <br/>
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
   <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
